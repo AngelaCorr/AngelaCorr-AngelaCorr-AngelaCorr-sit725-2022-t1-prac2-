@@ -1,0 +1,27 @@
+{
+  "name": "angelacorr-angelacorr-angelacorr-sit725-2022-t1-prac2-",
+  "version": "1.0.0",
+  "description": "week 2 prac for SIT725 2022",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AngelaCorr/AngelaCorr-AngelaCorr-AngelaCorr-sit725-2022-t1-prac2-.git"
+  },
+  "keywords": [
+    "express",
+    "node.js"
+  ],
+  "author": "Angela Corriero",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/AngelaCorr/AngelaCorr-AngelaCorr-AngelaCorr-sit725-2022-t1-prac2-/issues"
+  },
+  "homepage": "https://github.com/AngelaCorr/AngelaCorr-AngelaCorr-AngelaCorr-sit725-2022-t1-prac2-#readme",
+  "dependencies": {
+    "express": "^4.17.3"
+  }
+}
